@@ -1,0 +1,6 @@
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略工作区缓存（如果有）
+.workbuddy/
